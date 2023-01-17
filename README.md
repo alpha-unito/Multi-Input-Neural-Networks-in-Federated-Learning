@@ -8,4 +8,4 @@ Extensive experiments have been executed in a centralized and in a federated sce
 
 ## Usage
 
-#Contributors
+## Contributors
