@@ -1,0 +1,11 @@
+params:
+  cuda_devices: []
+
+optional_plugin_components: {}
+
+shard_descriptor:
+  template: covid_shard_descriptor.CovidShardDescriptor
+  params:
+    data_folder: covid_data
+    rank_worldsize: 1,1
+    hospital: 6
