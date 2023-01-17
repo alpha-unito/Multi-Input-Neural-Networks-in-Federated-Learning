@@ -32,7 +32,7 @@ To run the experiment as is, clone [this]([https://github.com/alpha-unito/stream
 ## Contributors
 
 Bruno Casella <bruno.casella@unito.it>  
-Walter Riviera <walter.riviera@intel.com>
+Walter Riviera <walter.riviera@intel.com>  
 Marco Aldinucci <marco.aldinucci@unito.it>  
 Gloria Menegaz <gloria.menegaz@gmail.com>
 
