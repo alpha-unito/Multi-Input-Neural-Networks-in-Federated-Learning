@@ -1,5 +1,0 @@
-settings:
-  listen_host: 0.0.0.0
-  listen_port: 50051
-  sample_shape: ['1', '256', '256']
-  target_shape: ['1', '256', '256']
