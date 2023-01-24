@@ -9,12 +9,12 @@ Extensive experiments have been executed in a centralized and in a federated sce
 ## Usage
 
 To run the experiment as is, clone [this]([https://github.com/alpha-unito/streamflow-fl](https://github.com/CasellaJr/Multi-Input-Neural-Networks-in-Federated-Learning)) repository and use the following:
-- For CoViD-19 CXR dataset in centralized version:
+For CoViD-19 CXR dataset in centralized version:
 - ```
   1. Put in the same folder: 'trainANDtest.xls', the folder containing the images 'DATASET', and the notebooks.
   2. Run all the cells of the notebooks (Multi-input, only images and only text).
   ```
-- For CoViD-19 CXR dataset in federated version:
+For CoViD-19 CXR dataset in federated version:
 - ```
   1. Install [OpenFL](https://openfl.readthedocs.io/en/latest/index.html)
   2. Put in the same folder: the folder containing the images 'DATASET', director, envoy and the workspace.
