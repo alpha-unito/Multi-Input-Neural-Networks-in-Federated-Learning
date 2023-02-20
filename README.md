@@ -46,6 +46,7 @@ For CoViD-19 CXR dataset in federated version:
   ```
 
 ## Contributors
+
 Bruno Casella <bruno.casella@unito.it>  
 Walter Riviera <walter.riviera@intel.com>  
 Marco Aldinucci <marco.aldinucci@unito.it>  
